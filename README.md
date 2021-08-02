@@ -4,7 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project shows how the multi image picker works in flutter.
+
+Multi images are picked and displayed in a grid .
 
 A few resources to get you started if this is your first Flutter project:
 
